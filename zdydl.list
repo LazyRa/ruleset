@@ -1,8 +1,9 @@
 - DOMAIN-KEYWORD,nintendo-cdn
 - DOMAIN-SUFFIX,nintendo.com
 - DOMAIN-SUFFIX,nintendo.co.jp
+- DOMAIN-SUFFIX,nintendo.co.hk
 - DOMAIN-SUFFIX,nintendoswitch.com
 - DOMAIN-SUFFIX,nintendoswitch.net
 - DOMAIN-SUFFIX,nintendo.co.uk
 - DOMAIN-SUFFIX,nintendo.ch
-- DOMAIN-SUFFIX,akadns.net,
+- DOMAIN-SUFFIX,akadns.net
