@@ -1,7 +1,4 @@
-# 直连补充列表
+# switch 下载用代理 联机用直连
 
 DOMAIN-SUFFIX,nintendowifi.net
 DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,lzzcairport.com
-DOMAIN-KEYWORD,bank
-DOMAIN-SUFFIX,mogushijian.com
