@@ -4,6 +4,9 @@ DOMAIN-KEYWORD,bank
 DOMAIN-SUFFIX,mogushijian.com
 DOMAIN-KEYWORD,gov
 DOMAIN-KEYWORD,chinatax
+# 极空间迅雷穿透核心域名
 DOMAIN-SUFFIX,k8s.xsl
-DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,pan.xunlei.com
 DOMAIN-SUFFIX,zenithspace.net
+# 国内CDN兜底
+DOMAIN-SUFFIX,xunlei.com
