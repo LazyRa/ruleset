@@ -7,8 +7,8 @@ DOMAIN-KEYWORD,gov
 DOMAIN-KEYWORD,chinatax
 # 极空间迅雷穿透核心域名
 # SRC-IP-CIDR,192.168.31.151/32
-DOMAIN-SUFFIX,k8s.xsl
-DOMAIN-SUFFIX,pan.xunlei.com
-DOMAIN-SUFFIX,zenithspace.net
+# DOMAIN-SUFFIX,k8s.xsl
+# DOMAIN-SUFFIX,pan.xunlei.com
+# DOMAIN-SUFFIX,zenithspace.net
 # 国内CDN兜底
-DOMAIN-SUFFIX,xunlei.com
+# DOMAIN-SUFFIX,xunlei.com
