@@ -1,5 +1,5 @@
 # 永久使用直连
-DOMAIN-KEYWORD,cloudflare
+# DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,wangdanlut
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,vpsoso.com
